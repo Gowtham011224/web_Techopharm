@@ -9,4 +9,7 @@ Separate pages are created for admin and users where each page contains differen
 USE XAMPP Control panel.
 RUN APACHE AND MYSQL.
 
-# Check them in the content folder!!
+# Check the code for webpages in the content folder!!
+THE index page is cover.html
+
+# Check the database i.e back-end in the DATABASE folder!!
