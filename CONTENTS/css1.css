@@ -1,0 +1,83 @@
+
+.bg {
+  /* The image used */
+  background-image: url("doc.jpg");
+  font-size: large;
+ 
+ 
+  /* Center and scale the image nicely */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.header {
+    overflow:hidden;
+    background-color: #f1f1f1;
+    opacity: 0.8;
+    padding: 20px 10px;
+    font-family: 'Montserrat', sans-serif;
+    
+ }
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+    
+  }
+
+  .header a:hover {
+    background-color: #ddd;
+    border-radius:10px ;
+    color: purple;
+  }
+  .header-left {
+    float:left;
+  }  
+  .header-right {
+    float:right;
+  }
+  .header a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+  .hd
+  { float: left;
+    background-color: #f2f1f6;
+    color: rgb(19, 19, 19);
+    opacity: 0.8;
+    text-align: center;
+    padding: 12px;
+    font-size: x-large; 
+    line-height: 25px;
+    border-radius: 4px;
+    font-weight: bold;
+    
+    }
+    .ct
+  { float: left;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    opacity: 0.8;
+    padding: 8px;
+    line-height: 25px;
+    border-radius: 4px;
+   font-weight: bold;
+    }
+
+    .foot
+    {
+      font-family:'Space Grotesk', sans-serif;
+      background-color: #00000069;
+      color: rgb(154, 141, 141);
+      padding: 8px;
+      opacity: 1;
+      padding-top: 5cm;
+    }

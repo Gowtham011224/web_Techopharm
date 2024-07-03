@@ -1,0 +1,45 @@
+
+#back
+{
+    font-weight: bold;
+    color:#eef4eb;
+    background-color: #6d0a91;
+    padding: 5px;
+    border-radius: 5px;
+    border-style:double;
+}
+
+.bg
+{
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 35%;
+    height: 35%;
+    text-align: center;
+    background-color: rgb(244, 148, 24);
+    
+}
+img {
+    max-width: 20%;
+    max-height:20%;
+    float: left;
+    padding-left: 5%;
+    padding-top: 5%;
+  }
+  
+  .text {
+    position: relative;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right:23%;
+    padding-top: 4%;
+    padding-bottom: 7.5%;
+    float: left;
+  }
+  table,td,input
+  {
+    padding: 5px;
+
+  }
+  

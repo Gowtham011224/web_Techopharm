@@ -1,0 +1,102 @@
+.header {
+    overflow:hidden;
+    background-color: #ccc1c1;
+    opacity: 0.8;
+    padding: 20px 10px;
+    
+    font-family: 'Montserrat', sans-serif;
+    
+ }
+ .header a:hover {
+    background-color: #171515;
+    border-radius:10px ;
+    color: rgb(255, 255, 255);
+  }
+ .header a {
+   
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+    
+  }
+  
+  .header-right {
+    float:right;
+  }
+ .header-left {
+    float:left;
+  }  
+  .header a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+  .hd
+  { float: left;
+    background-color: #c0b8dd;
+    color: rgb(19, 19, 19);
+    opacity: 1;
+    text-align: center;
+    padding: 12px;
+    font-size: x-large; 
+    line-height: 25px;
+    border-radius: 4px;
+    font-weight: bold;
+    border: rgb(215, 151, 31);
+    border-style:double;
+    
+    }
+    .ct
+  { position: relative;
+    float: left;
+    background-color: #1260aea4;
+    color: rgb(255, 255, 255);
+    opacity: 1;
+    text-align:left;
+    line-height: 25px;
+    border-radius: 4px;
+    font-weight: bold;
+    border: rgb(27, 165, 211);
+    border-style:double;
+    
+    }
+    th,table,td 
+    {
+      font-size: larger;
+      padding:10px;
+     
+    }
+    th
+    {
+      font-family: 'Indie Flower', cursive;
+      font-size: xx-large;
+    }
+    .upd
+    {
+    position: absolute;
+    float:center;
+    text-align:left;
+    line-height: 25px;
+    padding-top:5%;
+    padding-left: 5px;
+    top: 65%;
+    width: 70%;
+    font-family: 'Kalam', cursive;
+    font-weight:800;
+    font-size: 20px;
+    }
+.button
+{
+  background-color:#171515;
+  padding: 7px;
+  color:rgb(253, 254, 254);
+  border-style:groove;
+  width: 200px;
+  height:50px;
+  font-size: large;
+  border-radius: 50px;
+}
+    

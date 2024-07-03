@@ -1,0 +1,84 @@
+
+table,td,input
+{
+  padding: 5px;
+
+}
+
+h1
+{
+    font-family: 'Pangolin', cursive;
+}
+img
+{
+    height:100px;
+    width:100px;
+    background-color: rgb(255, 255, 255);
+    border-radius:40px ;
+    padding: 4px;
+}
+#login
+{
+    background-color: bisque;
+    color: black;
+    border-radius: 10px;
+    font-family: 'Pangolin', cursive;
+    height: 30px;
+    width: 60px;
+}
+
+#back
+{   position: static;
+    font-weight: bold;
+    color:#c32424;
+    background-color: #e1e6e1;
+    position: static;
+    padding: 7.5px;
+    border-radius: 5px;
+    border-style:groove;
+}
+
+html
+{
+    height: 85%;
+}
+a
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+body
+{
+    background-image: url(userlogin.jpg);
+    background-repeat: no-repeat;
+	background-size:cover;
+	background-position:center;
+	position:relative; 
+    
+}
+.bg 
+{
+    background-color:rgba(244, 89, 143, 0.553);
+    position: relative;
+    text-align:center;
+    background-size: cover;
+    padding-top: 150px;
+    padding-left: 35%;
+    height:550px;
+    width:65%;
+
+}
+.login-box
+{
+   
+position: absolute;
+width: max-content;
+height: max-content;
+padding-left:50px;
+padding-right:50px;
+padding-bottom: 30px;
+background-color: rgb(168, 94, 94);
+box-shadow: 0 0 10px 15px rgba(216, 201, 201, 0.553);;
+text-align: center;
+}
+
