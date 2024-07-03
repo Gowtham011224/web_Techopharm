@@ -24,6 +24,9 @@ For the back-end to run properly,
 Create three databases.
 
 1.order 2.dispatch
+
 *tables are created her only when there is requirement.For each customer, each table is created in both these DBs.*
+
 3.miniproject
+
 *tables contain details of customers.*
