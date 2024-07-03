@@ -10,6 +10,20 @@ USE XAMPP Control panel.
 RUN APACHE AND MYSQL.
 
 # Check the code for webpages in the content folder!!
-THE index page is cover.html
+The index page is cover.html
+
+IN ADMIN PAGE:
+
+userid    :  adminlauncher#123
+
+password  :  admin
 
 # Check the database i.e back-end in the DATABASE folder!!
+For the back-end to run properly,
+
+Create three databases.
+
+1.order 2.dispatch
+*tables are created her only when there is requirement.For each customer, each table is created in both these DBs.*
+3.miniproject
+*tables contain details of customers.*
